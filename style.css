@@ -1,0 +1,49 @@
+/* CSS files add styling rules to your content */
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  font-family: calibri;
+  margin: 2em;
+  text-align: center;
+  background-color: #f7f6f2;
+}
+
+h1 {
+  font-style: bold;
+  color: white;
+  text-align: center;
+  background-color: #575348;
+  padding: 8px;
+}
+
+h2 {
+  margin-top: 2em; 
+  color: #575348;
+}
+
+.question {
+  display: flex;
+  margin-top: 2em;
+}
+  
+.answer-choice img {
+  height: 10em;
+}
+img{
+  margin: 10px;
+}
+button{
+  border: 1px solid black;
+  background-color:#8a8072;
+  color:  #f2efeb;
+  font: 12pt calibri;
+  border-radius: 2px;
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+}
+div{
+  text-alingn: center;
+}
